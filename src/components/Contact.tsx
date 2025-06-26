@@ -32,14 +32,14 @@ const Contact = () => {
       icon: Github,
       label: "GitHub",
       username: "sadhanandhamurthy",
-      href: "#",
+      href: "https://github.com/sadhanandhamurthy",
       color: "gray"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       username: "sadhanandhamurthy",
-      href: "#",
+      href: "https://www.linkedin.com/in/sadhanandha-murthi-641342287?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFXH9k1XCTbqJfQI1nWE0RQ%3D%3D",
       color: "blue"
     }
   ];
