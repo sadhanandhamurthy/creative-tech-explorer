@@ -13,13 +13,9 @@ const Hero = () => {
           <div className="absolute -top-2 -right-2 w-8 h-8 bg-green-400 rounded-full animate-bounce"></div>
         </div>
         
-        <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent mb-4 animate-fade-in">
+        <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent mb-8 animate-fade-in">
           Sadhanandha Murthy
         </h1>
-        
-        <p className="text-xl md:text-2xl text-gray-300 mb-8 leading-relaxed">
-          Creative innovator & quick learner passionate about <span className="text-blue-400 font-semibold">AI/ML</span> and <span className="text-purple-400 font-semibold">Technology</span>
-        </p>
         
         <div className="flex flex-wrap justify-center gap-6 mb-8">
           <div className="flex items-center gap-2 text-gray-300 hover:text-blue-400 transition-colors">
