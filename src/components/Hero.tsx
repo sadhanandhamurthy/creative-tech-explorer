@@ -33,7 +33,7 @@ const Hero = () => {
         </div>
         
         <div className="flex justify-center gap-6">
-          <a href="#" className="p-3 bg-gray-800 hover:bg-blue-600 rounded-full transition-all duration-300 transform hover:scale-110 hover:shadow-lg hover:shadow-blue-500/25">
+          <a href="https://github.com/sadhanandhamurthy" target="_blank" rel="noopener noreferrer" className="p-3 bg-gray-800 hover:bg-blue-600 rounded-full transition-all duration-300 transform hover:scale-110 hover:shadow-lg hover:shadow-blue-500/25">
             <Github className="w-6 h-6 text-white" />
           </a>
           <a href="#" className="p-3 bg-gray-800 hover:bg-blue-700 rounded-full transition-all duration-300 transform hover:scale-110 hover:shadow-lg hover:shadow-blue-600/25">
